@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @nicollas-almeida
-  👀 I’m interested in JS
+  👀 I’m interested in JS and UX Design
   📝 I’m currently learning Angular.js
   📫 How to reach me souzanicollas04@gmail.com
   #
